@@ -42,10 +42,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?correction_annotation_20200206224431",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?correction_annotation_20200207153019",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-02-07T03:44:31.660Z",
-	"dcterms:issued": "2020-02-07T03:45:11.467Z",
+	"dcterms:created": "2020-02-07T20:30:19.830Z",
+	"dcterms:issued": "2020-02-07T20:31:21.960Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -57,7 +57,7 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?correction_annotation_20200206224431#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?correction_annotation_20200207153019#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml",
@@ -71,7 +71,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?correction_annotation_20200206224431#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?correction_annotation_20200207153019#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/choice"
 		}
@@ -117,10 +117,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?date_annotation_20200206224431",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?date_annotation_20200207153019",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-02-07T03:44:31.662Z",
-	"dcterms:issued": "2020-02-07T03:45:11.471Z",
+	"dcterms:created": "2020-02-07T20:30:19.837Z",
+	"dcterms:issued": "2020-02-07T20:31:21.964Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -132,7 +132,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?date_annotation_20200206224431#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?date_annotation_20200207153019#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml",
@@ -146,7 +146,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?date_annotation_20200206224431#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?date_annotation_20200207153019#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/dateline/date"
 		}
@@ -191,10 +191,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200206224431",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200207153019",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-02-07T03:44:31.662Z",
-	"dcterms:issued": "2020-02-07T03:45:11.472Z",
+	"dcterms:created": "2020-02-07T20:30:19.840Z",
+	"dcterms:issued": "2020-02-07T20:31:21.965Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -206,7 +206,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200206224431#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200207153019#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml",
@@ -220,7 +220,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200206224431#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200207153019#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/title/persName"
 		}
@@ -267,10 +267,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200206224431",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200207153019",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-02-07T03:44:31.663Z",
-	"dcterms:issued": "2020-02-07T03:45:11.472Z",
+	"dcterms:created": "2020-02-07T20:30:19.843Z",
+	"dcterms:issued": "2020-02-07T20:31:21.966Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -282,7 +282,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200206224431#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200207153019#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml",
@@ -296,7 +296,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200206224431#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?person_annotation_20200207153019#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/closer/signed/persName/persName"
 		}
@@ -343,10 +343,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200206224431",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200207153019",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-02-07T03:44:31.663Z",
-	"dcterms:issued": "2020-02-07T03:45:11.472Z",
+	"dcterms:created": "2020-02-07T20:30:19.846Z",
+	"dcterms:issued": "2020-02-07T20:31:21.966Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -358,7 +358,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200206224431#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200207153019#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml",
@@ -372,7 +372,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200206224431#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200207153019#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/note/p[3]/placeName"
 		}
@@ -419,10 +419,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200206224431",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200207153019",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-02-07T03:44:31.664Z",
-	"dcterms:issued": "2020-02-07T03:45:11.473Z",
+	"dcterms:created": "2020-02-07T20:30:19.849Z",
+	"dcterms:issued": "2020-02-07T20:31:21.966Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -434,7 +434,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200206224431#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200207153019#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml",
@@ -448,7 +448,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200206224431#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200207153019#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
@@ -495,10 +495,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200206224431",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200207153019",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-02-07T03:44:31.664Z",
-	"dcterms:issued": "2020-02-07T03:45:11.473Z",
+	"dcterms:created": "2020-02-07T20:30:19.857Z",
+	"dcterms:issued": "2020-02-07T20:31:21.967Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -510,7 +510,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200206224431#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200207153019#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml",
@@ -524,7 +524,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200206224431#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sampleLetter.xml?place_annotation_20200207153019#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName"
 		}
@@ -565,7 +565,7 @@
 				<pb n="3"></pb>
 				<p>Bull is a nice young man but incompetent - can't quite stand the communists, but finds the socialists too mild.</p><p>I am unhappily wondering what you are feeling about me.</p>
 				<closer>
-					<salute>I love you very much -</salute>
+					<salute>I love you very much -</salute><salute>sa</salute>
 					<signed>
 						<persName sameAs="http://www.freebase.com/view/en/bertrand_russell">
 							<persName cert="high" type="real" ref="http://viaf.org/viaf/36924137">B</persName>
