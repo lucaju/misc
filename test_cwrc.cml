@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cwrc.ca/schemas/cwrc_entry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/islandora/object/cwrc%3A744dc326-1f53-455c-b55d-df4dc847ac56/datastream/CSS/view"?><CWRC xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" SEX="female">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <CWRCHEADER>
+        <FILEDESC>
+            <TITLESTMT>
+                <DOCTITLE>Canadian Women Playwrights Project Template</DOCTITLE>
+            </TITLESTMT>
+            <PUBLICATIONSTMT>
+                <AUTHORITY>Canadian Women Playwrights Project</AUTHORITY>
+            </PUBLICATIONSTMT>
+            <SOURCEDESC>Entries created from responses to a survey conducted in collaboration with the Playwrights Guild of Canada, supplemented by original research by project members.</SOURCEDESC>
+        </FILEDESC>
+        <REVISIONDESC>
+            <WORKFLOW RESP="SYS" WORKCATEGORY="published" WORKSTATUS="C">
+                <DATE>2014-06-16</DATE>
+                <ITEM>Template created</ITEM>
+            </WORKFLOW>
+        </REVISIONDESC>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></CWRCHEADER>
+    <ENTRY>
+        <RESEARCHNOTE>[First Name] [Last Name]</RESEARCHNOTE>
+        <HEADING SUBTYPE="1">Kate Cayley</HEADING><AUTHORSUMMARY/>
+        <HEADING SUBTYPE="2">Biography</HEADING>
+        <HEADING SUBTYPE="3">Personal Information</HEADING>
+        <PERSONNAME>
+            <P>
+                <BIRTHNAME>
+                    <RESEARCHNOTE>[First Name] [Middle Name]</RESEARCHNOTE>
+                    <GIVEN>Kate</GIVEN>
+                    <GIVEN>Emmanuel Cartwright</GIVEN>
+                    <RESEARCHNOTE>[Last name at birth]</RESEARCHNOTE>
+                    <SURNAME>Cayley</SURNAME>
+                </BIRTHNAME>
+                <RESEARCHNOTE>[Nickname if present]</RESEARCHNOTE>
+                <NICKNAME/>
+            </P>
+        </PERSONNAME>
+        <RESEARCHNOTE>[Date of birth (dd mm yyyy)]</RESEARCHNOTE>
+        <BIRTH>
+            <CHRONSTRUCT>
+                <DATE VALUE="1978-02-20">Birthday: Feb. 20, 1978</DATE>
+                <CHRONPROSE>Place of Birth: <PLACE REF="http://www.geonames.org/6094817">Ottawa, Ontario</PLACE></CHRONPROSE>
+            </CHRONSTRUCT>
+        </BIRTH>
+        <RESEARCHNOTE>[Raised]</RESEARCHNOTE>
+        <RESIDENCEANDMOBILITY RELATIONTO="LIVED">
+            <P>Place Raised: <PLACE REF="http://www.geonames.org/6167865">Toronto, Ontario</PLACE><RESEARCHNOTE>[Current Residence]</RESEARCHNOTE></P>
+            <P>Current Residence: <PLACE REF="http://www.geonames.org/6167865">Toronto, Ontario</PLACE></P>
+        </RESIDENCEANDMOBILITY>
+        <RESEARCHNOTE>[Do you identify yourself as a regional playwright?]</RESEARCHNOTE>
+        <PRODUCTION>
+            <P><PLITERARYMOVEMENTS>Identify as a Regional Playwright: No</PLITERARYMOVEMENTS></P>
+        </PRODUCTION>
+        <RESEARCHNOTE>[Gender]</RESEARCHNOTE>
+        <CULTURALFORMATION>
+            <P><SEXUALIDENTITY><GENDER GENDER="FEMALE">Female</GENDER></SEXUALIDENTITY></P>
+            <RESEARCHNOTE>[Sexual Identity/Orientation]</RESEARCHNOTE>
+            <P>Sexual Identity: <SEXUALIDENTITY>Queer</SEXUALIDENTITY></P>
+            <RESEARCHNOTE>[Region(s)]</RESEARCHNOTE>
+            <P><RESEARCHNOTE>[National/Ethnic Background]</RESEARCHNOTE>National/Ethnic Background: <NATIONALHERITAGE>Canadian</NATIONALHERITAGE></P>
+            <RESEARCHNOTE>Instruction for tagger: Change to racecolour or ethnicity tag if needed</RESEARCHNOTE>
+            <P><RESEARCHNOTE>[Religious Affiliation]</RESEARCHNOTE>Religious Affliliation: <DENOMINATION>Christianity</DENOMINATION> and <DENOMINATION>Judaism</DENOMINATION></P>
+            <RESEARCHNOTE>Note to tagger: use a single but a separate INTIMATERELATIONSHIPS tag or FAMILY/MEMBER/HUSBAND tag for each relationship </RESEARCHNOTE>
+        </CULTURALFORMATION>
+        <FAMILY>
+            <RESEARCHNOTE>[Relationship Status]</RESEARCHNOTE>
+            <MARRIAGE>
+                <P>Relationship Status: Married</P>
+            </MARRIAGE>
+            <RESEARCHNOTE>If playwrights choose the "common law" option as their relationship status, it would need to be reflected in the following questions (e.e: rather than "marital relationship type" it would read "common-law relationship type"). This option accounts for (3a2) question in the original survey.</RESEARCHNOTE>
+            <RESEARCHNOTE>[Marital Relationship type]</RESEARCHNOTE>
+            <P>Marital Relationship: Same-sex partner</P>
+            <RESEARCHNOTE>[Different Relationship type]</RESEARCHNOTE>
+            <RESEARCHNOTE>[Name of Current Partner (if applicable)]</RESEARCHNOTE>
+            <MARRIAGE>
+                <P>Current Partner: <NAME REF="http://www.wikidata.org/entity/Q56012373">Lea Ambros</NAME></P>
+            </MARRIAGE>
+        </FAMILY>
+        <RECEPTION><RSELFDESCRIPTION>Website:<RESEARCHNOTE>[Professional website]</RESEARCHNOTE></RSELFDESCRIPTION></RECEPTION>
+        <OCCUPATION>
+            <P>Literary Agent:<RESEARCHNOTE>Name/contact info of the literary agent</RESEARCHNOTE></P>
+        </OCCUPATION>
+        <HEADING SUBTYPE="3">Education and Training</HEADING>
+        <RESEARCHNOTE>Subcategory of Biography</RESEARCHNOTE>
+        <RESEARCHNOTE>Note to tagger: use mode of education attribute on EDUCATION tag: if there are multiple modes of education then multiple education tags are needed. If there are mentions of schools by name then use SCHOOL tag (once available) and ORGNAME tag within SCHOOLS tag; note in attribute on SCHOOL tag the level of the school. If there are subject(s) of study then use the SUBJECT tag.</RESEARCHNOTE>
+        <EDUCATION>
+            <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>
+            <RESEARCHNOTE>For all transformed entries: if one of the chronstructs listed below is invalid because it is missing a date or a daterange elemelement, change the CHRONSTRUCT into a DATASTRUCT and the CHRONPROSE inside it into a DATAITEM</RESEARCHNOTE>
+            <HEADING SUBTYPE="4">Theatre-Related Education or Training</HEADING>
+            <CHRONSTRUCT>
+                <DATERANGE FROM="1997" TO="2001">1997-2001</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME ORGTYPE="academic" REF="http://dbpedia.org/resource/University_of_King's_College">University of King's College</ORGNAME>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE>Bachelor of Arts</DEGREE> in <SUBJECT>Contemporary Studies</SUBJECT> and <SUBJECT>Theatre</SUBJECT>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>completed<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE><RESEARCHNOTE>Optional additional program: No</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <HEADING SUBTYPE="4">Non-Theatre-Related Education</HEADING>
+        </EDUCATION>
+        <HEADING SUBTYPE="3">Career Highlights</HEADING>
+        <OTHERLIFEEVENT>
+            <HEADING SUBTYPE="4">Playwriting</HEADING>
+            <CHRONSTRUCT>
+                <DATERANGE FROM="2014" TO="2014"><RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>2014</DATERANGE>
+                <CHRONPROSE><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56012538">The Bakelite Masterpiece</TITLE> produced by <ORGNAME ORGTYPE="non-profit" REF="https://commons.cwrc.ca/cwrc:174b2eaa-6e06-4ccf-8d66-799b2798c17d">Tarragon Theatre</ORGNAME><RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE FROM="2011" TO="2011"><RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>2011</DATERANGE>
+                <CHRONPROSE><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56012610">After Akhmatova</TITLE> produced by <ORGNAME ORGTYPE="non-profit" REF="https://commons.cwrc.ca/cwrc:174b2eaa-6e06-4ccf-8d66-799b2798c17d">Tarragon Theatre<RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+			<CHRONSTRUCT>
+				<DATERANGE FROM="2009" TO="2017"><RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>2009-2017</DATERANGE>
+				<CHRONPROSE><JOBTITLE>Playwright-in-Residence</JOBTITLE> with <ORGNAME ORGTYPE="non-profit" REF="https://commons.cwrc.ca/cwrc:174b2eaa-6e06-4ccf-8d66-799b2798c17d">Tarragon Theatre</ORGNAME><RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE></CHRONPROSE>
+			</CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE FROM="2007" TO="2007"><RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>2007</DATERANGE>
+                <CHRONPROSE><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56012754">And What Alice Found There</TITLE> tours to <PLACE REF="http://www.geonames.org/745044">Istanbul, Turkey</PLACE><RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE><RESEARCHNOTE>Optional additional career highlight: Yes</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+        </OTHERLIFEEVENT>
+        <OCCUPATION>
+            <HEADING SUBTYPE="4">Theatre</HEADING>
+			<CHRONSTRUCT>
+				<DATERANGE FROM="2006" TO="2007"><RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>2006-2007</DATERANGE>
+				<CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE>Apprentice Director</JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME ORGTYPE="non-profit" REF="https://commons.cwrc.ca/cwrc:174b2eaa-6e06-4ccf-8d66-799b2798c17d">Tarragon Theatre</ORGNAME></CHRONPROSE>
+			</CHRONSTRUCT>
+			<CHRONSTRUCT>
+				<DATERANGE FROM="2004" TO="2012"><RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>2004-2012</DATERANGE>
+				<CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE>Co-Founder</JOBTITLE> and <JOBTITLE>Co-Artistic Director</JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME ORGTYPE="artistic" REF="http://www.wikidata.org/entity/Q56014175">The Cooking Fire Theatre Festival</ORGNAME></CHRONPROSE>
+			</CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE FROM="2001"><RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>2001-present</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE>Artistic Director</JOBTITLE> / <JOBTITLE>Co-Founder</JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME ORGTYPE="dramatic" REF="http://www.wikidata.org/entity/Q56012794">Stranger Theatre</ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+        </OCCUPATION>
+        <OCCUPATION>
+            <HEADING SUBTYPE="4">Non-Theatre</HEADING>
+            <CHRONSTRUCT>
+                <DATE VALUE="2017">2017<RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE></DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Open Houses</TITLE>, a young adult novel, published with <ORGNAME ORGTYPE="publishing">Brick Books</ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT><CHRONSTRUCT><DATE VALUE="2014">2014</DATE><CHRONPROSE> <TITLE LEVEL="MONOGRAPHIC" REF="http://viaf.org/viaf/7048152865667804940000/">How You Were Born</TITLE>, a short fiction collection, published with <ORGNAME ORGTYPE="publishing" REF="http://www.wikidata.org/entity/Q7159314">Pedlar Press</ORGNAME></CHRONPROSE></CHRONSTRUCT><CHRONSTRUCT><DATE VALUE="2013">2013</DATE><CHRONPROSE><TITLE LEVEL="MONOGRAPHIC" REF="http://www.wikidata.org/entity/Q56014408">When This World Comes to an End</TITLE>, a poetry collection, published with <ORGNAME ORGTYPE="publishing" REF="http://www.wikidata.org/entity/Q56014672">Brick Books</ORGNAME></CHRONPROSE></CHRONSTRUCT><CHRONSTRUCT><DATE VALUE="2011">2011</DATE><CHRONPROSE><TITLE LEVEL="MONOGRAPHIC" REF="http://www.wikidata.org/entity/Q56014287">The Hangman in the Mirror</TITLE>, a young adult novel published, with <ORGNAME ORGTYPE="publishing" REF="http://www.wikidata.org/entity/Q4769192">Annick Press</ORGNAME></CHRONPROSE></CHRONSTRUCT>
+        </OCCUPATION>
+        <HEADING SUBTYPE="3">Awards and Honours</HEADING>
+        <RECEPTION>
+            <RESEARCHNOTE>[Subcategory of Biography]</RESEARCHNOTE>
+            <HEADING SUBTYPE="4">Theatre-Related</HEADING>
+            <CHRONSTRUCT>
+                <DATE VALUE="2009">2009</DATE>
+                <CHRONPROSE><RRECOGNITIONSANDAWARDS><RRECOGNITIONVALUE>Finalist</RRECOGNITIONVALUE>, <RRECOGNITIONNAME>Toronto Arts Foundation, Emerging Artist Award</RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS></CHRONPROSE>
+            </CHRONSTRUCT>
+        </RECEPTION>
+        <OTHERLIFEEVENT>
+            <HEADING SUBTYPE="4">Other</HEADING>
+            <RESEARCHNOTE>For non-literary awards or non-theatre-related books</RESEARCHNOTE>
+            <CHRONSTRUCT>
+                <DATE VALUE="2015"><RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>2015</DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONVALUE>Finalist</RRECOGNITIONVALUE>, <RRECOGNITIONNAME>Governal General's Award for Fiction</RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC" REF="http://viaf.org/viaf/7048152865667804940000/">How You Were Born</TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE VALUE="2015"><RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>2015</DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONVALUE>Winner</RRECOGNITIONVALUE>, <RRECOGNITIONNAME>Trillium Book Award</RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC" REF="http://viaf.org/viaf/7048152865667804940000/">How You Were Born</TITLE></CHRONPROSE>
+            </CHRONSTRUCT><CHRONSTRUCT><DATE VALUE="2015">2015</DATE><CHRONPROSE><RRECOGNITIONSANDAWARDS>Shortlist, <RRECOGNITIONNAME>ReLit Award</RRECOGNITIONNAME>, <TITLE LEVEL="MONOGRAPHIC" REF="http://viaf.org/viaf/7048152865667804940000/">How You Were Born</TITLE></RRECOGNITIONSANDAWARDS></CHRONPROSE></CHRONSTRUCT><CHRONSTRUCT><DATE VALUE="2015">2015</DATE><CHRONPROSE><RRECOGNITIONSANDAWARDS>Longlist, <RRECOGNITIONNAME>Frank O'Conner International Short Story Award</RRECOGNITIONNAME>, <TITLE LEVEL="MONOGRAPHIC" REF="http://viaf.org/viaf/7048152865667804940000/">How You Were Born</TITLE></RRECOGNITIONSANDAWARDS></CHRONPROSE></CHRONSTRUCT>
+            <CHRONSTRUCT><CHRONSTRUCT><DATE VALUE="2014">2014</DATE><CHRONPROSE><RRECOGNITIONSANDAWARDS>Shortlist, <RRECOGNITIONNAME>ReLit Award</RRECOGNITIONNAME>, <TITLE LEVEL="MONOGRAPHIC" REF="http://www.wikidata.org/entity/Q56014408">When This World Comes to an End</TITLE> <TITLE LEVEL="MONOGRAPHIC" REF="http://viaf.org/viaf/7048152865667804940000/">How You Were Born</TITLE></RRECOGNITIONSANDAWARDS></CHRONPROSE></CHRONSTRUCT></CHRONSTRUCT><CHRONSTRUCT>
+                <DATE VALUE="2012"><RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>2012</DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONVALUE>Winner</RRECOGNITIONVALUE>, <RRECOGNITIONNAME>Geoffrey Bilson Award for Historical Fiction for Young People</RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC" REF="http://www.wikidata.org/entity/Q56014287">The Hangman in the Mirror</TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE VALUE="2007"><RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>2007</DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONVALUE>Shortlisted</RRECOGNITIONVALUE>, <RRECOGNITIONNAME><ORGNAME REF="http://dbpedia.org/resource/Canadian_Broadcasting_Corporation">CBC</ORGNAME> Literary Award for Poetry</RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS></CHRONPROSE>
+            </CHRONSTRUCT>
+        </OTHERLIFEEVENT>
+        <HEADING SUBTYPE="3">Other Information</HEADING>
+        <RESEARCHNOTE>Subcategory of Biography or Writing depending on nature of information; tags will need to be modified according to the speci</RESEARCHNOTE>
+        <OCCUPATION>
+            <HEADING SUBTYPE="4">Other Life/Career Highlights</HEADING>
+            <P>My work explores the intersections of myth and history. I am very interested in the question of the political or ethical responsibilities of art, how we intersect with totalitarianism, and whether there is a morality to beauty. I am interested in devised theatre, and how the work of the writer can be shaped by, and answerable to, the work of performers.</P>
+        </OCCUPATION>
+        <FAMILY>
+            <HEADING SUBTYPE="4">Other Information about Relationships and Family</HEADING>
+            <RESEARCHNOTE>[Other Information about Relationships and Family]</RESEARCHNOTE>
+        </FAMILY>
+        <HEADING SUBTYPE="2">Plays</HEADING>
+        <TEXTSCOPE><HEADING SUBTYPE="3"><TITLE LEVEL="ANALYTIC">This is Nowhere</TITLE></HEADING><TEXTUALFEATURES><P>"Legend has it that, in <DATE VALUE="1968">1968</DATE>, a secret organization called The Nowhere Collective attempted to draft a ‘Blueprint’ for a future <PLACE REF="https://www.geonames.org/6324729">Halifax</PLACE>, which they hoped to realize by 2018. It never happened. We don’t even know if the legend is true. Downtown Halifax was the stage. Guided by a phone app, 850 participants searched the city of the present, considering its past and witnessing a series of encounters that evoke the city of tomorrow. In the process, they contributed to a New Blueprint for the city’s future, unveiled at the culmination of the search." (https://zuppatheatre.com/show/this-is-nowhere/)</P></TEXTUALFEATURES><PRODUCTION><HEADING SUBTYPE="4">First Production</HEADING><CHRONSTRUCT><DATE VALUE="2018-09">Sept. 2018</DATE><CHRONPROSE><TITLE LEVEL="ANALYTIC">This is Nowhere</TITLE> produced in <PLACE REF="https://www.geonames.org/6324729">Halifax, Nova Scotia</PLACE>, by <ORGNAME ORGTYPE="dramatic">Zuppa Theatre</ORGNAME>.</CHRONPROSE></CHRONSTRUCT><P><ROLE ROLE="Actor [act]">Cast</ROLE>: <NAME>Rebecca McCauley</NAME>, <NAME>Mary Fay Coady</NAME>, <NAME>Colleen MacIsaac</NAME>, <NAME>Sophie Schade</NAME>, <NAME>Lindsay Ross</NAME>, <NAME>Matt Lumley</NAME>, <NAME>Briony Merritt</NAME>, <NAME>James MacLean</NAME>, <NAME>Gil Anderson</NAME>, <NAME>Tara Taylor</NAME>, <NAME>Stephanie MacDonald</NAME>, <NAME>Thomas Niles</NAME>, <NAME>Ailsa Galbreath</NAME>, <NAME>Kelin Boyd</NAME>, <NAME>Sheila McLean</NAME>, <NAME>Jilly Richard</NAME>, <NAME>Zya Langdon</NAME>, <NAME>Ed Thomason</NAME>, <NAME>Steve Baker</NAME>, <NAME>Sobaz Benjamin</NAME>, <NAME>Lance Perry</NAME>, <NAME>Tim Dunn</NAME>, <NAME>Cst. Amit Parasram</NAME>, <NAME>Sebastien Labelle</NAME>, <NAME>Lara Lewis</NAME>, <NAME>Kayla Gunn</NAME>, <NAME>Michelle Pillar</NAME>, <NAME>Rebecca Thomas</NAME>, <NAME>Aaron Prosper</NAME>, <NAME>Deirdre Lee</NAME>, <NAME>Stepheny Hunter</NAME>, <NAME>Gina Thornhill</NAME>, <NAME>Jeff Schwager</NAME>, <NAME>Jennifer Powley</NAME>, <NAME>Anthony Black</NAME>, <NAME>Peter Sarty</NAME>, <NAME>Rena Kossatz</NAME>, <NAME>Eunice Abaga</NAME>, <NAME>Allison Basha</NAME>, <NAME>Katie Dorion</NAME>, <NAME>Genevieve Steele</NAME>, <NAME>Madeline Tench</NAME>, <NAME>Roland Au</NAME>, <NAME>Lesley Smith</NAME>, <NAME>Kyle Gillis</NAME>, <NAME>Ivy Charles</NAME>, <NAME>Ryan Gallant</NAME>, <NAME>Sam Vigneult</NAME>, <NAME>Jacinte Armstrong</NAME>,
+<NAME>Kendra Armstrong</NAME>, and <NAME>Molly Johnson</NAME>.</P><P><ROLE ROLE="Playwright">Principal writer</ROLE>: <NAME>Kate Cayley</NAME>; <ROLE ROLE="Playwright">additional writer</ROLE>s: <NAME>Sobaz Benjamin</NAME> and <NAME>Rebecca Thomas</NAME>; <ROLE ROLE="Director [drt]">director</ROLE>: <NAME>Alex McLean</NAME>, with <NAME>Stewart Legere</NAME>, <NAME>Kathryn McCormack</NAME>, <NAME>Liliona Quarmyne</NAME>, and <NAME>Ben Stone</NAME>; <ROLE ROLE="Choreographer [chr]">choreographer</ROLE>: <NAME>Liliona Quarmyne</NAME>; <ROLE ROLE="Composer [cmp]">composer</ROLE>: <NAME>Jason MacIsaac</NAME>. </P></PRODUCTION><TEXTUALFEATURES>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P><RESEARCHNOTE>[Year Written]</RESEARCHNOTE>Year Written: </P>
+                <P>Geographic Setting: <TSETTINGPLACE SETTINGPLACETYPE="IDENTIFIABLE"><PLACE REF="https://www.geonames.org/6324729">Halifax, Nova Scotia</PLACE></TSETTINGPLACE></P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: <TSETTINGDATE SETTINGDATETYPE="PRESENT">Contemporary</TSETTINGDATE></P>
+                <P>Genre/Form of Play: </P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: Many </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: Many</P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: </P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include speeches that are suitable for actors who are auditioning: </P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include speeches that are suitable for young actors: </P>
+            </TEXTUALFEATURES><RECEPTION><HEADING SUBTYPE="4">Awards</HEADING><CHRONSTRUCT><DATE/><CHRONPROSE><RRECOGNITIONSANDAWARDS>Canada Council for the Arts New Chapter Program</RRECOGNITIONSANDAWARDS></CHRONPROSE></CHRONSTRUCT><HEADING SUBTYPE="4">Other Information</HEADING></RECEPTION></TEXTSCOPE><TEXTSCOPE><HEADING SUBTYPE="3"><TITLE LEVEL="ANALYTIC">The Archive of Missing Things</TITLE></HEADING><TEXTUALFEATURES><P>"'The Archive of Missing Things' was founded in order to collect, catalogue, and store all missing objects that are in the world. The Archive was built around a secret. 'The Archive of Missing Things' is a contemplative game that happens undercover in a library. Equipped with an iPad and a headset, you have 90 minutes to explore a maze-like archive in search of the secret at its centre. Clues are everywhere: if you look and listen closely enough, you may just notice them. Created by Zuppa with Trillium-Award-winning writer Kate Cayley, 'The Archive of Missing Things' is an online book, a game, and an ambient performance for libraries in the age of rising sea levels." (https://zuppatheatre.com/show/the-archive-of-missing-things/)</P></TEXTUALFEATURES><PRODUCTION><HEADING SUBTYPE="4">First Production</HEADING><CHRONSTRUCT><DATE VALUE="2017">2017</DATE><CHRONPROSE><TITLE LEVEL="ANALYTIC">The Archive of Missing Things</TITLE> produced in <PLACE REF="https://www.geonames.org/6324729">Halifax, Nova Scotia</PLACE>, by <ORGNAME ORGTYPE="dramatic">Zuppa Theatre</ORGNAME>.</CHRONPROSE></CHRONSTRUCT><P><ROLE ROLE="Actor [act]">Cast</ROLE>: <NAME>Miranda Jones</NAME>, <NAME>Ursula Calder</NAME>, and <NAME>Stewart Legere</NAME>; <ROLE ROLE="Narrator [nrt]">narrator</ROLE>: <NAME>Gabriel Leblanc</NAME>.</P><P><ROLE ROLE="Director [drt]">Director</ROLE>: <NAME>Alex McLean</NAME>; <ROLE ROLE="Costume designer [cst]">costume designer</ROLE>: <NAME>Andrea Ritchie</NAME>; <ROLE ROLE="Composer [cmp]">composer</ROLE>s: <NAME>Stewart Legere</NAME> and <NAME>Brian Riley</NAME>; <ROLE ROLE="Sound designer [sds]">sound designer</ROLE>: <NAME>Brian Riley</NAME>; <ROLE ROLE="Technical director [tcd]">technical director</ROLE>: <NAME>Jessica Lewis</NAME>.</P></PRODUCTION><TEXTUALFEATURES>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P><RESEARCHNOTE>[Year Written]</RESEARCHNOTE>Year Written: </P>
+                <P>Geographic Setting: <TSETTINGPLACE SETTINGPLACETYPE="IDENTIFIABLE"><PLACE REF="https://www.geonames.org/6324729">Halifax, Nova Scotia</PLACE></TSETTINGPLACE></P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: <TSETTINGDATE SETTINGDATETYPE="PRESENT">Contemporary</TSETTINGDATE></P>
+                <P>Genre/Form of Play: </P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: </P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: </P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include speeches that are suitable for actors who are auditioning: </P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include speeches that are suitable for young actors: </P>
+            </TEXTUALFEATURES><RECEPTION><HEADING SUBTYPE="4">Awards</HEADING><HEADING SUBTYPE="4">Other Information</HEADING></RECEPTION></TEXTSCOPE><TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <HEADING SUBTYPE="3"><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56012538">The Bakelite Masterpiece</TITLE></HEADING>
+            <TEXTUALFEATURES>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE><TTHEMETOPIC REG="War">At the end of World War II, Holland is in chaos.</TTHEMETOPIC> <TTHEMETOPIC REG="Artists and Artistic Production"><TTHEMETOPIC REG="Crime">The artist <TCHARACTERNAME><NAME STANDARD="Han van Meegeren" REF="http://dbpedia.org/resource/Han_van_Meegeren">van Meegeren</NAME></TCHARACTERNAME> is arrested. His crime? Selling a long-lost painting by the Dutch master <NAME REF="http://dbpedia.org/resource/Johannes_Vermeer">Johannes Vermeer</NAME> to <NAME REF="http://viaf.org/viaf/39385942/">Hermann Goering</NAME>, Nazi leader. His defense? It was a perfect forgery painted by him. His proof? In front of his prosecutor (art historian and resistance fighter) <TCHARACTERNAME>Geert Piller</TCHARACTERNAME>, he must paint another flawless Vermeer to save his life.</TTHEMETOPIC></TTHEMETOPIC> This play debates beauty, faith, memory, and the reconstruction of a country.</P>
+            </TEXTUALFEATURES>
+            <PRODUCTION> <HEADING SUBTYPE="4">First Production</HEADING> <CHRONSTRUCT>
+                <DATE VALUE="2014"><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>2014</DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE><PPERFORMANCE><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56012538">The Bakelite Masterpiece</TITLE> produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE> <ORGNAME ORGTYPE="non-profit" REF="https://commons.cwrc.ca/cwrc:174b2eaa-6e06-4ccf-8d66-799b2798c17d">Tarragon Theatre</ORGNAME> in <PLACE REF="http://www.geonames.org/6167865">Toronto, Ontario</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME ORGTYPE="non-profit" REF="https://commons.cwrc.ca/cwrc:174b2eaa-6e06-4ccf-8d66-799b2798c17d">Tarragon Theatre</ORGNAME>.</PPERFORMANCE></CHRONPROSE>
+                </CHRONSTRUCT> <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE> <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE> <P/><P><ROLE ROLE="Actor [act]">Cast</ROLE>: <TCHARACTERNAME><NAME REF="http://dbpedia.org/resource/Han_van_Meegeren">Han van Meegeren</NAME></TCHARACTERNAME>: <NAME REF="http://www.wikidata.org/entity/Q1503334">Geordie Johnson</NAME>; <TCHARACTERNAME>Geert Piller</TCHARACTERNAME>: <NAME REF="http://www.wikidata.org/entity/Q56015172">Irene Poole</NAME>.</P><P><ROLE ROLE="Director [drt]">Director</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56015190">Richard Rose</NAME>; <ROLE ROLE="Set designer [std]">set</ROLE> and <ROLE ROLE="Costume designer [cst]">costume designer</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56015202">Charlotte Dean</NAME>; <ROLE ROLE="Lighting designer [lgd]">lighting designer</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56015217">André du Toit</NAME>; <ROLE ROLE="Stage manager [stm]">stage manager</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56015226">Natasha Bean-Smith</NAME>.</P> <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE> </PRODUCTION>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P><RESEARCHNOTE>[Year Written]</RESEARCHNOTE>Year Written: <DATE VALUE="2014">2014</DATE></P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting: <TSETTINGPLACE SETTINGPLACETYPE="IDENTIFIABLE"><PLACE REF="http://www.geonames.org/2750405">Holland</PLACE></TSETTINGPLACE></P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: <TSETTINGDATE SETTINGDATETYPE="PAST">Mid 20th Century</TSETTINGDATE></P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: <TGENRE GENRENAME="TRAGICOMEDY">Tragicomedy</TGENRE>, <TGENRE GENRENAME="ONEACTPLAY">One-Act</TGENRE></P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 1</P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 1</P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include speeches that are suitable for actors who are auditioning: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include speeches that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <TEXTSCOPE>
+            <HEADING SUBTYPE="3"><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56012610">After Akhmatova</TITLE></HEADING>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>An <TCHARACTERTYPEROLE>American academic</TCHARACTERTYPEROLE> named <TCHARACTERNAME>Allan Taylor</TCHARACTERNAME> travels to <TSETTINGDATE SETTINGDATETYPE="PAST">1968</TSETTINGDATE> <TSETTINGPLACE SETTINGPLACETYPE="IDENTIFIABLE"><PLACE REF="http://www.geonames.org/536199">Leningrad</PLACE></TSETTINGPLACE> to meet with <TCHARACTERNAME><NAME REF="http://www.wikidata.org/entity/Q135481">Lev Gumilyov</NAME></TCHARACTERNAME>, the only son of dissident Soviet poet <TCHARACTERNAME><NAME REF="http://dbpedia.org/resource/Anna_Akhmatova">Anna Akhmatova</NAME></TCHARACTERNAME>. This encounter leads to an opening of Lev's memories of his mother, his own imprisonment in Stalinist <PLACE REF="http://www.geonames.org/2017370">Russia</PLACE>, and the ambiguous legacy of Akhmatova's great protest poem, <EMPH>Requiem</EMPH>. The action moves between 1968 and <TSETTINGDATE SETTINGDATETYPE="PAST">1938</TSETTINGDATE>, and between Allan's adoration of Akhmatova and Lev's bitterness about his difficult past.</P>
+            </TEXTUALFEATURES>
+            <PRODUCTION> <HEADING SUBTYPE="4">First Production</HEADING> <CHRONSTRUCT>
+				<DATE VALUE="2011-05"><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>Mar. 2011</DATE>
+				<CHRONPROSE><RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE><PPERFORMANCE><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56012610">After Akhmatova</TITLE> produced at <RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME ORGTYPE="non-profit" REF="https://commons.cwrc.ca/cwrc:174b2eaa-6e06-4ccf-8d66-799b2798c17d">Taragon Theatre</ORGNAME> in <PLACE REF="http://www.geonames.org/6167865">Toronto, Ontario</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME ORGTYPE="non-profit" REF="https://commons.cwrc.ca/cwrc:174b2eaa-6e06-4ccf-8d66-799b2798c17d">Tarragon Theatre</ORGNAME>.</PPERFORMANCE></CHRONPROSE>
+				</CHRONSTRUCT> <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE> <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE> <P/><P><ROLE ROLE="Actor [act]">Cast</ROLE>: <TCHARACTERNAME><NAME REF="http://dbpedia.org/resource/Anna_Akhmatova">Anna Akhmatova</NAME></TCHARACTERNAME>: <NAME REF="http://www.wikidata.org/entity/Q56015462">Sarah Orenstein</NAME>; <TCHARACTERNAME><NAME REF="http://www.wikidata.org/entity/Q135481">Lev Gumilyov</NAME></TCHARACTERNAME>: <NAME REF="http://www.wikidata.org/entity/Q56015481">Eric Goulem</NAME>; <TCHARACTERNAME>Allan Taylor</TCHARACTERNAME>: <NAME REF="http://www.wikidata.org/entity/Q56015497">Paul Dunn</NAME>; <TCHARACTERNAME><NAME REF="http://dbpedia.org/resource/Osip_Mandelstam">Osip Mandelstam</NAME></TCHARACTERNAME>: <NAME REF="http://www.wikidata.org/entity/Q42600104">Richard McMillan</NAME>; <TCHARACTERNAME><NAME REF="http://viaf.org/viaf/14318/">Nadezhda Mandelstam</NAME></TCHARACTERNAME>: <NAME REF="http://www.wikidata.org/entity/Q56026214">Caroline Gillis</NAME>; <TCHARACTERNAME><NAME REF="http://dbpedia.org/resource/Lydia_Chukovskaya">Lydia Chukovskaya</NAME></TCHARACTERNAME>: <NAME REF="http://www.wikidata.org/entity/Q56026277">Claire Calnan</NAME>.</P><P><ROLE ROLE="Director [drt]">Director</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56026432">Alan Dilworth</NAME>; <ROLE ROLE="Set designer [std]">set</ROLE> and <ROLE ROLE="Costume designer [cst]">costume designer</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56026720">Jung-Hye Kim</NAME>; <ROLE ROLE="Lighting designer [lgd]">lighting designer</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56026777">Kimberly Purtell</NAME>; <ROLE ROLE="Sound designer [sds]">sound designer</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56026892">Thomas Ryder Payne</NAME>; <ROLE ROLE="Assistant director">assistant director</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56026894">Elise Newman</NAME>; <ROLE ROLE="Stage manager [stm]">stage manager</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56026900">Kristen Kitcher</NAME>.</P> <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE><HEADING SUBTYPE="4">Publication</HEADING><LISTBIBCIT>
+				<BIBCIT><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC" REF="http://www.wikidata.org/entity/Q56012610">After Akhmatova</TITLE>. <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME ORGTYPE="publishing" REF="https://commons.cwrc.ca/cwrc:ed328bb1-acc1-4346-83f8-9888b2c2abce">Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE VALUE="2012">2012</DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE>. ISBN: <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">978-1-55435-433-7</IDNO>. <XREF URL="https://www.canadianplayoutlet.com/products/after-akhmatova">Order this text</XREF>.</BIBCIT>
+				</LISTBIBCIT></PRODUCTION>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P><RESEARCHNOTE>[Year Written]</RESEARCHNOTE>Year Written: <DATE VALUE="2010">2010</DATE></P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting: <TSETTINGPLACE SETTINGPLACETYPE="IDENTIFIABLE"><PLACE REF="http://www.geonames.org/2017370">Russia</PLACE></TSETTINGPLACE></P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: <TSETTINGDATE SETTINGDATETYPE="PAST">Mid 20th Century</TSETTINGDATE></P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: <TGENRE GENRENAME="TRAGEDY">Tragedy</TGENRE>, <TGENRE GENRENAME="HISTORICAL">Historical</TGENRE>, <TGENRE GENRENAME="ONEACTPLAY">One-Act</TGENRE></P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 3</P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 3</P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include speeches that are suitable for actors who are auditioning: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include speeches that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING><P>For more information see <RRESPONSES><XREF URL="https://www.pledgeproject.ca/plays/after-akhmatova/">Pledge</XREF></RRESPONSES>.</P>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <TEXTSCOPE>
+            <HEADING SUBTYPE="3"><TITLE LEVEL="ANALYTIC">The Hanging of Françoise Laurent</TITLE></HEADING>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE><TTHEMETOPIC REG="Crime">A woman in <TSETTINGDATE SETTINGDATETYPE="PAST">18th-century</TSETTINGDATE> <TSETTINGPLACE SETTINGPLACETYPE="IDENTIFIABLE"><PLACE REF="http://www.geonames.org/6077243">Montreal</PLACE></TSETTINGPLACE> is sentenced to hang for stealing a pair of gloves.</TTHEMETOPIC> Her one chance at life is finding a man willing to become the hangman and marry her. In prison, she finds a hole in the wall of her cell, and through the hole, a voice—a young soldier in the next cell, who has never seen her. This devised theatre work explores fate, desire, and salvation.</P>
+            </TEXTUALFEATURES>
+            <PRODUCTION> <HEADING SUBTYPE="4">First Production</HEADING> <CHRONSTRUCT>
+                <DATE VALUE="2011-08">Aug. <RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>5, 2010</DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE><PPERFORMANCE><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56261488">The Hanging of Francoise Laurent</TITLE> produced at <RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME ORGTYPE="dramatic" REF="http://www.wikidata.org/entity/Q56026990">Summerworks Festival</ORGNAME> at <ORGNAME ORGTYPE="dramatic" REF="http://www.wikidata.org/entity/Q56027000">Theatre Passe Muraille Backspace</ORGNAME> in <PLACE REF="http://www.geonames.org/6167865">Toronto, Ontario</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME ORGTYPE="dramatic" REF="http://www.wikidata.org/entity/Q56012794">Stranger Theatre Company</ORGNAME>.</PPERFORMANCE></CHRONPROSE>
+                </CHRONSTRUCT> <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE> <RESEARCHNOTE>GRH note to tagger: Place person names into NAME tags</RESEARCHNOTE> <P/><P><ROLE ROLE="Actor [act]">Cast</ROLE> / <ROLE ROLE="Creator [cre]">creators</ROLE>: <TCHARACTERNAME>Madame</TCHARACTERNAME>: <NAME REF="http://www.wikidata.org/entity/Q56027097">Sarah Cormier</NAME>; <TCHARACTERNAME>Jean</TCHARACTERNAME>: <NAME REF="http://www.wikidata.org/entity/Q56027122">Zach Fraser</NAME>; <TCHARACTERNAME>Françoise Laurent</TCHARACTERNAME>: <NAME REF="http://www.wikidata.org/entity/Q56027141">Kiersten Tough</NAME>.</P><P><ROLE ROLE="Director [drt]">Director</ROLE>: <NAME REF="http://viaf.org/viaf/220569690/">Kate Cayley</NAME>; all design and musical arrangements created by the company.</P> <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE> </PRODUCTION>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P><RESEARCHNOTE>[Year Written]</RESEARCHNOTE>Year Written: <DATE VALUE="2011">2011</DATE></P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting: <TSETTINGPLACE SETTINGPLACETYPE="IDENTIFIABLE"><PLACE REF="http://www.geonames.org/6077243">Montreal</PLACE></TSETTINGPLACE></P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: <TSETTINGDATE SETTINGDATETYPE="PAST">18th Century</TSETTINGDATE></P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: <TGENRE GENRENAME="TRAGEDY">Tragedy</TGENRE>, <TGENRE GENRENAME="BLACKCOMEDY">Black Comedy</TGENRE>, <TGENRE GENRENAME="HISTORICAL">Historical</TGENRE>, <TGENRE GENRENAME="COLLECTIVECREATION">Collective Creation</TGENRE>, <TGENRE GENRENAME="PHYSICALTHEATRE">Physical Theatre</TGENRE>, <TGENRE GENRENAME="ONEACTPLAY">One-Act</TGENRE></P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 1</P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 2</P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include speeches that are suitable for actors who are auditioning: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include speeches that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <HEADING SUBTYPE="3"><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56012754">And What Alice Found There</TITLE></HEADING>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>This fantasy is based on <NAME REF="http://dbpedia.org/resource/Lewis_Carroll">Lewis Carroll</NAME>'s Alice books and his relationship to the real <NAME REF="http://dbpedia.org/resource/Alice_Liddell">Alice Liddell</NAME>. The play is a devised creation using performers, puppets, video projection, songs, and a little tap-dancing.</P>
+            </TEXTUALFEATURES>
+            <PRODUCTION> <HEADING SUBTYPE="4">First Production</HEADING> <CHRONSTRUCT>
+                <DATE VALUE="2007"><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>2007</DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE><PPERFORMANCE><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56012754">And What Alice Found There</TITLE> produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE> <ORGNAME ORGTYPE="corporate" REF="http://www.wikidata.org/entity/Q56027517">The Great Hall</ORGNAME> in <PLACE REF="http://www.geonames.org/6167865">Toronto, Ontario</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME ORGTYPE="dramatic" REF="http://www.wikidata.org/entity/Q56012794">Stranger Theatre Company</ORGNAME>.</PPERFORMANCE></CHRONPROSE>
+                </CHRONSTRUCT> <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE> <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE> <P/><P><ROLE ROLE="Actor [act]">Cast</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56027528">Simone Rosenberg</NAME>, <NAME REF="http://www.wikidata.org/entity/Q56027535">Christina Serra</NAME>, and <NAME REF="http://www.wikidata.org/entity/Q56027097">Sarah Cormier</NAME>. <ROLE ROLE="Puppeteer [ppt]">Puppeteers</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56012373">Lea Ambros</NAME> and <NAME REF="http://www.wikidata.org/entity/Q56027552">Sarah Klein</NAME>.</P><P><ROLE ROLE="Director [drt]">Director</ROLE>: <NAME REF="http://viaf.org/viaf/220569690/">Kate Cayley</NAME>; <ROLE ROLE="Lighting designer [lgd]">lighting designer</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56012373">Lea Ambros</NAME>; <ROLE ROLE="Projection designer">projections</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56027528">Simone Rosenberg</NAME> and <NAME REF="http://www.wikidata.org/entity/Q56027573">Adrienne Connelly</NAME>; <ROLE ROLE="Designer [dsr]">puppets designer</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56012373">Lea Ambros</NAME> and <NAME REF="http://viaf.org/viaf/220569690/">Kate Cayley</NAME>.</P> <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE> </PRODUCTION>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P><RESEARCHNOTE>[Year Written]</RESEARCHNOTE>Year Written: <DATE VALUE="2007">2007</DATE></P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting: <TSETTINGPLACE SETTINGPLACETYPE="IDENTIFIABLE"><PLACE REF="http://www.geonames.org/6269131">England</PLACE></TSETTINGPLACE></P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: <TSETTINGDATE SETTINGDATETYPE="PAST">19th Century</TSETTINGDATE>/<TSETTINGDATE SETTINGDATETYPE="PAST">Victorian</TSETTINGDATE></P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: <TGENRE GENRENAME="TRAGICOMEDY">Tragicomedy</TGENRE>, <TGENRE GENRENAME="MUSICAL">Musical</TGENRE>, <TGENRE GENRENAME="DANCE">Dance</TGENRE>, <TGENRE GENRENAME="HISTORICAL">Historical</TGENRE>, <TGENRE GENRENAME="COLLECTIVECREATION">Collective Creation</TGENRE>, <TGENRE GENRENAME="PARODY">Parody</TGENRE>, <TGENRE GENRENAME="DRAMA">Puppet</TGENRE>, <TGENRE GENRENAME="PHYSICALTHEATRE">Physical Theatre</TGENRE>, <TGENRE GENRENAME="ONEACTPLAY">One-Act</TGENRE></P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 5</P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include speeches that are suitable for actors who are auditioning: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include speeches that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <HEADING SUBTYPE="3"><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56027653">The Counterfeit Marquise</TITLE></HEADING>
+            <TEXTUALFEATURES>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>An adaptation of a seventeenth-century "wonder tale" about a little boy who grows up to be a beautiful girl, and her adventures in <TSETTINGPLACE SETTINGPLACETYPE="IDENTIFIABLE"><PLACE REF="http://www.geonames.org/2988507">Paris</PLACE></TSETTINGPLACE>, this play uses puppets and actors.</P>
+            </TEXTUALFEATURES>
+            <PRODUCTION> <HEADING SUBTYPE="4">First Production</HEADING> <CHRONSTRUCT>
+                <DATE VALUE="2004"><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>2004</DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE><PPERFORMANCE><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56027653">The Counterfeit Marquise</TITLE> produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE> <ORGNAME ORGTYPE="dramatic" REF="https://commons.cwrc.ca/cwrc:2a36ad3f-e250-4c19-9fbe-90b32a367363">Theatre Passe Muraille</ORGNAME> in <PLACE REF="http://www.geonames.org/6167865">Toronto, Ontario</PLACE>, at <RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE><ORGNAME ORGTYPE="dramatic" REF="http://www.wikidata.org/entity/Q56026990">SummerWorks</ORGNAME> by <ORGNAME ORGTYPE="dramatic" REF="http://www.wikidata.org/entity/Q56012794">Stranger Theatre Company</ORGNAME>.</PPERFORMANCE></CHRONPROSE>
+                </CHRONSTRUCT> <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE> <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE> <P/><P><ROLE ROLE="Actor [act]">Cast</ROLE> / <ROLE ROLE="Puppeteer [ppt]">puppeteers</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56012373">Lea Ambros</NAME> and <NAME REF="http://www.wikidata.org/entity/Q56027672">Dalal Badr</NAME>.</P><P><ROLE ROLE="Director [drt]">Director</ROLE>: <NAME REF="http://viaf.org/viaf/220569690/">Kate Cayley</NAME>.</P> <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE> </PRODUCTION>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P><RESEARCHNOTE>[Year Written]</RESEARCHNOTE>Year Written: <DATE VALUE="2004">2004</DATE></P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting: <TSETTINGPLACE SETTINGPLACETYPE="IDENTIFIABLE"><PLACE REF="http://www.geonames.org/3017382">France</PLACE></TSETTINGPLACE></P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: <TSETTINGDATE SETTINGDATETYPE="PAST">Renaissance</TSETTINGDATE>/<TSETTINGDATE SETTINGDATETYPE="PAST">Early Modern</TSETTINGDATE></P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: <TGENRE GENRENAME="COMEDY">Comedy</TGENRE>, <TGENRE GENRENAME="DRAMA">Puppet</TGENRE>, <TGENRE GENRENAME="ONEACTPLAY">One-Act</TGENRE>, <TGENRE GENRENAME="ADAPTATION">Adaptation</TGENRE></P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 1</P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 2</P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include speeches that are suitable for actors who are auditioning: Yes</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include speeches that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>If there are more plays that you would like to add, please send an email to playguild01@gmail.com to let us know, or comment: </RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <HEADING SUBTYPE="3"><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56035557">The Yellow Wallpaper Project</TITLE></HEADING>
+            <TEXTUALFEATURES>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE><TINTERTEXTUALITY>This adaption of the short story <TITLE LEVEL="ANALYTIC" REF="http://dbpedia.org/resource/The_Yellow_Wallpaper">The Yellow Wallpaper</TITLE> explores motherhood, madness, and the writings of <NAME REF="http://dbpedia.org/resource/Charlotte_Perkins_Gilman">Charlotte Perkins Gilman</NAME>.</TINTERTEXTUALITY></P>
+            </TEXTUALFEATURES>
+            <PRODUCTION> <HEADING SUBTYPE="4">First Production</HEADING> <CHRONSTRUCT>
+                <DATE VALUE="2002-05"><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>May 2002</DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE><PPERFORMANCE><TITLE LEVEL="ANALYTIC" REF="http://www.wikidata.org/entity/Q56035557">The Yellow Wallpaper Project</TITLE> produced at <RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME ORGTYPE="artistic" REF="http://www.wikidata.org/entity/Q4713708">Alderney Landing</ORGNAME> in <PLACE REF="http://www.geonames.org/5969423">Halifax, Nova Scotia</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME ORGTYPE="artistic" REF="http://www.wikidata.org/entity/Q56284684">On The Waterfront</ORGNAME>, <ORGNAME ORGTYPE="dramatic" REF="http://www.wikidata.org/entity/Q56284694">Stranger Theatre Company</ORGNAME>.</PPERFORMANCE></CHRONPROSE>
+                </CHRONSTRUCT> <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE> <RESEARCHNOTE>GRH note to editor: Place person names into NAME tags</RESEARCHNOTE> <P/><P><ROLE ROLE="Actor [act]">Cast</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56035624">Anna Siddall</NAME> and <NAME REF="http://www.wikidata.org/entity/Q56035669">Amy Stewart</NAME>.</P><P><ROLE ROLE="Director [drt]">Director</ROLE>: <NAME REF="http://viaf.org/viaf/220569690/">Kate Cayley</NAME>; <ROLE ROLE="Designer [dsr]">designer</ROLE>: <NAME REF="http://www.wikidata.org/entity/Q56012373">Lea Ambros</NAME>.</P> <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE> </PRODUCTION>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P><RESEARCHNOTE>[Year Written]</RESEARCHNOTE>Year Written: <DATE VALUE="2002">2002</DATE></P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting: <TSETTINGPLACE SETTINGPLACETYPE="IDENTIFIABLE"><PLACE REF="http://www.geonames.org/6252001">USA</PLACE></TSETTINGPLACE></P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: <TSETTINGDATE SETTINGDATETYPE="PAST">Early 20th Century</TSETTINGDATE></P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: <TGENRE GENRENAME="TRAGICOMEDY">Tragicomedy</TGENRE>, <TGENRE GENRENAME="PHYSICALTHEATRE">Physical Theatre</TGENRE>, <TGENRE GENRENAME="ONEACTPLAY">One-Act</TGENRE>, <TGENRE GENRENAME="ADAPTATION">Adaptation</TGENRE></P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 2</P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include speeches that are suitable for actors who are auditioning: Yes</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include speeches that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+               
+            </RECEPTION>
+        </TEXTSCOPE>
+    </ENTRY>
+</CWRC>
