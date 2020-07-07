@@ -42,10 +42,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?correction_annotation_20200706223852153",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?correction_annotation_20200706225115024",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-07-07T02:38:52.153Z",
-	"dcterms:issued": "2020-07-07T02:42:06.866Z",
+	"dcterms:created": "2020-07-07T02:51:15.024Z",
+	"dcterms:issued": "2020-07-07T02:53:30.234Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -57,7 +57,7 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?correction_annotation_20200706223852153#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?correction_annotation_20200706225115024#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml",
@@ -71,7 +71,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?correction_annotation_20200706223852153#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?correction_annotation_20200706225115024#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/choice"
 		}
@@ -117,10 +117,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?date_annotation_20200706223852177",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?date_annotation_20200706225115029",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-07-07T02:38:52.177Z",
-	"dcterms:issued": "2020-07-07T02:42:06.869Z",
+	"dcterms:created": "2020-07-07T02:51:15.029Z",
+	"dcterms:issued": "2020-07-07T02:53:30.239Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -132,7 +132,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?date_annotation_20200706223852177#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?date_annotation_20200706225115029#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml",
@@ -146,7 +146,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?date_annotation_20200706223852177#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?date_annotation_20200706225115029#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/dateline/date"
 		}
@@ -191,10 +191,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706223852180",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706225115032",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-07-07T02:38:52.180Z",
-	"dcterms:issued": "2020-07-07T02:42:06.874Z",
+	"dcterms:created": "2020-07-07T02:51:15.032Z",
+	"dcterms:issued": "2020-07-07T02:53:30.240Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -206,7 +206,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706223852180#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706225115032#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml",
@@ -220,7 +220,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706223852180#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706225115032#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/title/persName"
 		}
@@ -267,10 +267,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706223852191",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706225115034",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-07-07T02:38:52.191Z",
-	"dcterms:issued": "2020-07-07T02:42:06.875Z",
+	"dcterms:created": "2020-07-07T02:51:15.034Z",
+	"dcterms:issued": "2020-07-07T02:53:30.240Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -282,7 +282,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706223852191#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706225115034#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml",
@@ -296,7 +296,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706223852191#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?person_annotation_20200706225115034#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/closer/signed/persName/persName"
 		}
@@ -343,10 +343,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706223852195",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706225115037",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-07-07T02:38:52.195Z",
-	"dcterms:issued": "2020-07-07T02:42:06.875Z",
+	"dcterms:created": "2020-07-07T02:51:15.037Z",
+	"dcterms:issued": "2020-07-07T02:53:30.241Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -358,7 +358,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706223852195#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706225115037#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml",
@@ -372,7 +372,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706223852195#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706225115037#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/note/p[3]/placeName"
 		}
@@ -419,10 +419,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706223852198",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706225115041",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-07-07T02:38:52.198Z",
-	"dcterms:issued": "2020-07-07T02:42:06.875Z",
+	"dcterms:created": "2020-07-07T02:51:15.041Z",
+	"dcterms:issued": "2020-07-07T02:53:30.241Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -434,7 +434,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706223852198#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706225115041#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml",
@@ -448,7 +448,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706223852198#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706225115041#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
@@ -495,10 +495,10 @@
 		"schema": "http://schema.org/",
 		"xsd": "http://www.w3.org/2001/XMLSchema#"
 	},
-	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706223852200",
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706225115046",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2020-07-07T02:38:52.200Z",
-	"dcterms:issued": "2020-07-07T02:42:06.876Z",
+	"dcterms:created": "2020-07-07T02:51:15.046Z",
+	"dcterms:issued": "2020-07-07T02:53:30.241Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucaju",
 		"@type": [
@@ -510,7 +510,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706223852200#Target",
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706225115046#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml",
@@ -524,7 +524,7 @@
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706223852200#Selector",
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?place_annotation_20200706225115046#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName"
 		}
@@ -543,6 +543,156 @@
 	},
 	"oa:hasCertainty": "cwrc:high"
 }
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?note_annotation_20200706225130081",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-07-07T02:51:30.081Z",
+	"dcterms:issued": "2020-07-07T02:53:30.241Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/lucaju",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Luciano Frizzera",
+		"foaf:nick": "lucaju"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?note_annotation_20200706225130081#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?note_annotation_20200706225130081#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "Research Note"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?note_annotation_20200706225148731",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-07-07T02:51:48.731Z",
+	"dcterms:issued": "2020-07-07T02:53:30.244Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/lucaju",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Luciano Frizzera",
+		"foaf:nick": "lucaju"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?note_annotation_20200706225148731#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/lucaju/misc/master/sample-letter.xml?note_annotation_20200706225148731#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:Note",
+		"dc:format": "text/plain",
+		"rdf:value": "Studente Note"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
 ]]></rdf:Description></rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -559,7 +709,7 @@
 						<date cert="high" when="1935-10-21">21.10.35</date>
 					</dateline>
 					<salute>Dearest -</salute>
-				</opener><p>I have had no letter from you since I left <placeName cert="high" ref="http://www.geonames.org/2673722">Stockholm</placeName>, but I had a nice one from John in an envelope you had sent him. I had sent him one addressed to Copenhagen but he hadn't used it.</p><p>When I reached Oslo yesterday evening, Brynjulf Bull should have been there to meet me, but wasn't. He is not on the telephone, so I took a taxi to his address, which turned out to be a students' club with no one about on Sundays, so I went to a hotel feeling rather non-plussed. But presently he turned up. He had got the <pb n="2"/> time of my arrival wrong, and 
+				</opener><p>I have had no letter from<note type="researchNote">Research Note</note> you since I left <placeName cert="high" ref="http://www.geonames.org/2673722">Stockholm</placeName>, but I had a nice one from John in an envelope<note type="other">Studente Note</note> you had sent him. I had sent him one addressed to Copenhagen but he hadn't used it.</p><p>When I reached Oslo yesterday evening, Brynjulf Bull should have been there to meet me, but wasn't. He is not on the telephone, so I took a taxi to his address, which turned out to be a students' club with no one about on Sundays, so I went to a hotel feeling rather non-plussed. But presently he turned up. He had got the <pb n="2"/> time of my arrival wrong, and 
 						<choice><sic>when</sic><corr>when</corr></choice>
 					he had found he had missed me he phoned to every hotel in Oslo till he hit on the right one. He left me at 10, and then I had to do a Sunday Referee article. Today my journey lasts from 9 till 9 - fortunately one of the most beautiful railway journeys in the world. Tomorrow I lecture at <placeName cert="high" ref="http://www.geonames.org/6548528">Bergen</placeName> to the Anglo-Norwegian Society. Next day I go back to Oslo, lecture there Fri. and Sat. and then start for home via Bergen.</p>
 				<pb n="3"/>
